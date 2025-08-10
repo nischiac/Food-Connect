@@ -18,6 +18,7 @@ Waste Tracking: Automatic categorization of unclaimed/expired food.
 
 Reports & Analytics: CO₂ savings, donation frequency, and landfill waste reduction stats.
 
+
 🛠 Tech Stack
 
 Frontend: HTML5, CSS3, JSP
@@ -31,6 +32,7 @@ Server: Apache Tomcat
 Tools: Eclipse IDE, Git, Bootstrap, AJAX
 
 APIs: Google Maps API (geolocation), SMS/Email Notification APIs
+
 
 📂 Installation & Setup
 
@@ -46,6 +48,7 @@ Update database credentials in the configuration file.
 
 Run the project and open in a web browser.
 
+
 🌍 Impact
 
 Reduces food waste and greenhouse gas emissions.
@@ -53,6 +56,7 @@ Reduces food waste and greenhouse gas emissions.
 Supports UN SDG 12 – Responsible Consumption and Production.
 
 Enhances community food security.
+
 
 👩‍💻 Contributors:
 
