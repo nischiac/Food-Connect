@@ -56,7 +56,10 @@ Enhances community food security.
 
 👩‍💻 Contributors:
 
-Nischitha A C, 
- Nisha C, 
- K Sridevi, 
- Preeti iti,
+Nischitha A C
+
+Nisha C
+
+K Sridevi
+
+Preeti iti
