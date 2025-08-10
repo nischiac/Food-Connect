@@ -32,8 +32,8 @@ Reduces food waste and greenhouse gas emissions.
 Supports UN SDG 12 – Responsible Consumption and Production.
 Enhances community food security.
 
-👩‍💻 Contributors
-Nischitha A C
-Nisha C
-K Sridevi
-Preeti iti
+👩‍💻 Contributors: 
+Nischitha A C, 
+ Nisha C, 
+ K Sridevi, 
+ Preeti iti,
