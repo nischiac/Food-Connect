@@ -1,4 +1,5 @@
 Food Connect – Smart Food Waste Management System
+
 📌 Overview
 Food Connect is a web-based application designed to reduce food wastage by connecting donors (restaurants, households, supermarkets) with recipients (NGOs, shelters, individuals in need). It enables efficient collection, redistribution, and disposal of surplus food, ensuring edible items reach those who need them while minimizing environmental impact.
 
